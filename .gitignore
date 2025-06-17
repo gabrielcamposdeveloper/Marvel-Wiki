@@ -1,0 +1,24 @@
+# Ignore Angular dist folder
+/frontend/dist
+
+# Ignore Angular logs
+/frontend/*.log
+
+# Ignore Angular documentation
+/frontend/doc
+
+# Ignore Angular e2e tests
+/frontend/e2e
+
+# Ignore node_modules folder
+/frontend/node_modules
+
+# Ignore C# build folder
+/backend/bin
+
+# Ignore C# obj folder
+/backend/obj
+
+# Ignore C# user settings
+/backend/*.suo
+/backend/*.userprefs
