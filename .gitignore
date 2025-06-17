@@ -1,17 +1,17 @@
 # Ignore Angular dist folder
-/frontend/dist
+/client/dist
 
 # Ignore Angular logs
-/frontend/*.log
+/client/*.log
 
 # Ignore Angular documentation
-/frontend/doc
+/client/doc
 
 # Ignore Angular e2e tests
-/frontend/e2e
+/client/e2e
 
 # Ignore node_modules folder
-/frontend/node_modules
+/client/node_modules
 
 # Ignore C# build folder
 /backend/bin
